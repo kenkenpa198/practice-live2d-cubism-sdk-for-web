@@ -7,7 +7,7 @@
 
 GitHub Pages でのデプロイ結果はこちら。
 
-- [https://kenkenpa198.github.io/practice-live2d-cubism-sdk-for-web/CubismSdkForWeb-4-r.7/Samples/TypeScript/Demo/index.html](https://kenkenpa198.github.io/practice-live2d-cubism-sdk-for-web/CubismSdkForWeb-4-r.7/Samples/TypeScript/Demo/index.html)
+- [https://kem198.github.io/practice-live2d-cubism-sdk-for-web/CubismSdkForWeb-4-r.7/Samples/TypeScript/Demo/index.html](https://kem198.github.io/practice-live2d-cubism-sdk-for-web/CubismSdkForWeb-4-r.7/Samples/TypeScript/Demo/index.html)
 
 <!-- omit in toc -->
 ## 目次
@@ -163,7 +163,7 @@ GitHub リポジトリへプッシュ後、GitHub Pages で公開設定を行う
 
 `CubismSdkForWeb-4-r.7/Samples/TypeScript/Demo/index.html` へブラウザからアクセスして表示に問題が無ければ OK 。当リポジトリの場合は下記の URL となる。
 
-- [https://kenkenpa198.github.io/practice-live2d-cubism-sdk-for-web/CubismSdkForWeb-4-r.7/Samples/TypeScript/Demo/index.html](https://kenkenpa198.github.io/practice-live2d-cubism-sdk-for-web/CubismSdkForWeb-4-r.7/Samples/TypeScript/Demo/index.html)
+- [https://kem198.github.io/practice-live2d-cubism-sdk-for-web/CubismSdkForWeb-4-r.7/Samples/TypeScript/Demo/index.html](https://kem198.github.io/practice-live2d-cubism-sdk-for-web/CubismSdkForWeb-4-r.7/Samples/TypeScript/Demo/index.html)
 
 ## 3. メモ
 
